@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VfQoqE66kPVm/1wQ+Jbdp4UxxABWGt/u7YIcVmz1jEHgsklxXFYGyuaS8zYkrPURLB+kPcMJnbeLozo/Xo+bEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET Developer\\BackEnd C Sharp\\Mini Projects\\Beginner\\TaskTracker\\TaskTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
